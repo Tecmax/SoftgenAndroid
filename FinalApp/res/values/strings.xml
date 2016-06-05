@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FinalApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="google_maps">Maps</string>
+    <string name="widgets">Widgets</string>
+    <string name="fixedtab">Fixed Tap</string>
+    <string name="scrolltab">Scroll Tab</string>
+
+</resources>

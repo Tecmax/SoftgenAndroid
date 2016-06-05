@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.finalapp.SplashScreen" >
+
+    <item
+        android:id="@+id/google_map"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/google_maps"/>
+    <item
+        android:id="@+id/scrolltab"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/scrolltab"/>
+    <item
+        android:id="@+id/widgets"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/widgets"/>
+    <item
+        android:id="@+id/fixedtab"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/fixedtab"/>
+
+</menu>
